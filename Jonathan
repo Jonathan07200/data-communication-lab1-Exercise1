@@ -1,0 +1,5 @@
+1. The protocols are all of them: TCP, QUIC, HTTP, DNS, UDP, TLSv1.2
+2. I sent the information at 12:42:47.665661 and received OK at 12:42:474408. It took roughly 0.29 seconds for the HTTP Ok reply to be received
+3. The gaia address (destination address) is 128.119.245.12. My computer address is 192.168.72.136.
+4. The type of web browser that issued the HTTP request is Safari
+5. The destination port number DS port is 80
